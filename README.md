@@ -7,6 +7,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Observations](#observations)
   - [Radiology](#radiology)
   - [Dental](#dental)
+  - [Laboratory](#laboratory)
   - [Interfaces](#interfaces)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
@@ -35,9 +36,13 @@ developing flexible e-health systems
  * [dcm4che](http://www.dcm4che.org/) - Open Source Clinical Image and Object Management
  * [Horos](http://www.horosproject.org/) - Open source medical image viewer
  * [OpenREM](http://http://openrem.org/) - Radiation Exposure Monitoring for the physicist
+ * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
  
 ### Dental
   * [Open Dental](http://www.opendental.com) -  Practice Management Software
+
+### Laboratory
+   * [Bika](https://www.bikalims.org/) -Open Source LIMS
 
 ### Frameworks
   * [Opal](http://opal.openhealthcare.org.uk/) - framework for building clinical applications
