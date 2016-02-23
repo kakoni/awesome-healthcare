@@ -49,6 +49,7 @@ developing flexible e-health systems
    * [OpenELIS](https://sites.google.com/site/openelisglobal) - Laboratory Information System for Global Health
 
 ### Frameworks
+  * [C3-PRO-Server](https://github.com/chb/c3-pro-server) - Highly reliable and scalable FHIR compliant web server
   * [Opal](http://opal.openhealthcare.org.uk/) - framework for building clinical applications
   * [FHIRBase](http://fhirbase.github.io) - Open source storage based on the FHIR Standard
   * [API Server](https://github.com/smart-on-fhir/api-server) - Open-source FHIR Server to support patient- and clinician-facing apps
@@ -60,9 +61,10 @@ developing flexible e-health systems
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit
+  * [Python HL7](https://github.com/johnpaulett/python-hl7) - A simple library for parsing messages of Health Level 7 (HL7) version 2.x into Python objects
+  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - open source software framework that makes it easy to create apps for medical research or for other research projects
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - fhir client implementation in ruby
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library
-  * [Python HL7](https://github.com/johnpaulett/python-hl7) - A simple library for parsing messages of Health Level 7 (HL7) version 2.x into Python objects
 
 ### Interfaces
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
@@ -71,5 +73,6 @@ developing flexible e-health systems
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts
 
 ### Research
+   * [i2b2](https://www.i2b2.org) - Research Data warehouse
    * [Open cancer](http://opencancer.net/) - cancer data management
    * [LabKey Server](https://www.labkey.org) - Platform for Translational Research
