@@ -49,6 +49,7 @@ developing flexible e-health systems
   * [FHIRBase](http://fhirbase.github.io) - Open source storage based on the FHIR Standard
   * [API Server](https://github.com/smart-on-fhir/api-server) - Open-source FHIR Server to support patient- and clinician-facing apps
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server
+  * [SMART on FHIR](http://smarthealthit.org/smart-on-fhir/) -Open, standards based technology platform
   
 ### Libraries
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers
