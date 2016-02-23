@@ -11,7 +11,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Interfaces](#interfaces)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
-  - [Data](#data)
+  - [Research](#research)
 
 
 ### EHR
@@ -61,5 +61,6 @@ developing flexible e-health systems
 ### Interfaces
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
 
-### Data
+### Research
    * [Open cancer](http://opencancer.net/) - cancer data management
+   * [LabKey Server](https://www.labkey.org) - Platform for Translational Research
