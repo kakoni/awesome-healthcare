@@ -8,7 +8,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Radiology](#radiology)
   - [Dental](#dental)
   - [Interfaces](#interfaces)
-  - [Libraries(#libraries)
+  - [Libraries](#libraries)
   - [Frameworks](#frameworks)
   - [Data](#data)
 
