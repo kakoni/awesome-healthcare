@@ -26,7 +26,7 @@ developing flexible e-health systems
 * [VistA](http://www.ehealth.va.gov/VistA.asp) - Health Information Technology (IT) system
 
 ### Prescribing
-* [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines managemen
+* [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines management
 
 ### Observations
  * [open-eObs](https://www.neovahealth.co.uk/page/open-eobs) - Task management and escalation services
