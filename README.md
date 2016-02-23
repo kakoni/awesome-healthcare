@@ -4,7 +4,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 - [Awesome Health](https://github.com/kakoni/awesome-health#awesome-health)
   - [EHR](#ehr)
   - [Prescribing](#prescribing)
-  - [Observations](#observations)
+  - [Nursing](#nursing)
   - [Radiology](#radiology)
   - [Dental](#dental)
   - [Laboratory](#laboratory)
@@ -30,8 +30,8 @@ developing flexible e-health systems
 ### Prescribing
 * [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines management
 
-### Observations
- * [open-eObs](https://www.neovahealth.co.uk/page/open-eobs) - Task management and escalation services
+### Nursing
+ * [open-eObs](https://www.neovahealth.co.uk/page/open-eobs) - The observations and clinical assessment platform offers a real-time view of all patients across a ward.
 
 ### Radiology
  * [dcm4che](http://www.dcm4che.org/) - Open Source Clinical Image and Object Management
