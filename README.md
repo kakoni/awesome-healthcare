@@ -11,6 +11,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Interfaces](#interfaces)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
+  - [Applications](#applications)
   - [Research](#research)
 
 
@@ -61,6 +62,9 @@ developing flexible e-health systems
 
 ### Interfaces
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
+
+### Applications
+  * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts
 
 ### Research
    * [Open cancer](http://opencancer.net/) - cancer data management
