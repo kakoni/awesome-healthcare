@@ -12,6 +12,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
   - [Applications](#applications)
+  - [Personal Health Record](#Personal Health Record)
   - [Research](#research)
 
 
@@ -71,6 +72,9 @@ developing flexible e-health systems
 
 ### Applications
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts
+
+### Personal Health Record
+  * [Tidepool](https://github.com/tidepool-org) -  open data platform to reduce the burden of Type 1 Diabetes.
 
 ### Research
    * [i2b2](https://www.i2b2.org) - Research Data warehouse
