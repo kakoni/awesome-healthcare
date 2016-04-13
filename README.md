@@ -20,6 +20,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 * [Bahmni](http://www.bahmni.org/) - Open source hospital system
 * [GNU Health](http://health.gnu.org/) - Electronic Medical Record (EMR), Hospital Management, and Health Information System (HIS).
 * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Open source Electronic Medical Record software
+* [FreeMedForms EMR](https://freemedforms.com) - FreeMedForms EMR (Electronic Medical Record) is free and open source software
 * [OpenClinic](http://openclinic.sourceforge.net/) - Open source, medical records system
 * [OpenEHR](http://www.openehr.org) - An open domain-driven platform for
 developing flexible e-health systems
