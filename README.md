@@ -30,6 +30,7 @@ developing flexible e-health systems
 * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - A full Patient Administration System designed for the NHS
 * [OpenMRS](http://openmrs.org/) - Open source enterprise electronic medical record system platform.
 * [OSCAR EMR](https://oscar-emr.com/) - Open-source Electronic Medical Record (EMR) software
+* [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an open source integrated digital care record platform
 * [VistA](http://www.ehealth.va.gov/VistA.asp) - Health Information Technology (IT) system
 
 ### Prescribing
