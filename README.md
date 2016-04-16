@@ -3,12 +3,12 @@ A curated list of awesome open health software, libraries, tools and resources, 
 
 - [Awesome Health](https://github.com/kakoni/awesome-health#awesome-health)
   - [EHR](#ehr)
+  - [Specifications](#specifications)
   - [Prescribing](#prescribing)
   - [Nursing](#nursing)
   - [Radiology](#radiology)
   - [Dental](#dental)
   - [Laboratory](#laboratory)
-  - [Interfaces](#interfaces)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
   - [Applications](#applications)
@@ -23,8 +23,6 @@ A curated list of awesome open health software, libraries, tools and resources, 
 * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - EHRServer is a generic, minimal, open source, standard-based, service-oriented, openEHR clinical data storage.
 * [FreeMedForms EMR](https://freemedforms.com) - FreeMedForms EMR (Electronic Medical Record) is free and open source software
 * [OpenClinic](http://openclinic.sourceforge.net/) - Open source, medical records system
-* [OpenEHR](http://www.openehr.org) - An open domain-driven platform for
-developing flexible e-health systems
 * [OpenEMR](http://www.open-emr.org/) - Free and Open Source electronic health records and medical practice management application
 * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology 
 * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - A full Patient Administration System designed for the NHS
@@ -32,6 +30,11 @@ developing flexible e-health systems
 * [OSCAR EMR](https://oscar-emr.com/) - Open-source Electronic Medical Record (EMR) software
 * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an open source integrated digital care record platform
 * [VistA](http://www.ehealth.va.gov/VistA.asp) - Health Information Technology (IT) system
+
+### Specifications
+* [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
+* [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
+
 
 ### Prescribing
 * [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines management
@@ -69,9 +72,6 @@ developing flexible e-health systems
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - open source software framework that makes it easy to create apps for medical research or for other research projects
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - fhir client implementation in ruby
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library
-
-### Interfaces
-  * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
 
 ### Applications
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts
