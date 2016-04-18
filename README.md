@@ -14,6 +14,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Applications](#applications)
   - [Personal Health Record](#Personal Health Record)
   - [Research](#research)
+  - [Hardware](#hardware)
 
 
 ### EHR
@@ -83,3 +84,6 @@ A curated list of awesome open health software, libraries, tools and resources, 
    * [i2b2](https://www.i2b2.org) - Research Data warehouse
    * [Open cancer](http://opencancer.net/) - cancer data management
    * [LabKey Server](https://www.labkey.org) - Platform for Translational Research
+
+### Hardware
+   * [Gluco](https://github.com/nebulabio/gluco) - An open source glucometer
