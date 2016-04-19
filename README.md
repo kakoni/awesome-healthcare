@@ -87,3 +87,4 @@ A curated list of awesome open health software, libraries, tools and resources, 
 
 ### Hardware
    * [Gluco](https://github.com/nebulabio/gluco) - An open source glucometer
+   * [MobilECG II](https://github.com/xdever/MobilECG-II) - open source clinical grade Holter ECG. 
