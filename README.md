@@ -13,6 +13,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Frameworks](#frameworks)
   - [Applications](#applications)
   - [Personal Health Record](#Personal Health Record)
+  - [Integration](#integration)
   - [Research](#research)
   - [Hardware](#hardware)
 
@@ -84,6 +85,10 @@ A curated list of awesome open health software, libraries, tools and resources, 
    * [i2b2](https://www.i2b2.org) - Research Data warehouse
    * [Open cancer](http://opencancer.net/) - cancer data management
    * [LabKey Server](https://www.labkey.org) - Platform for Translational Research
+
+### Integration
+   * [Mirth Connect](https://www.mirth.com) - Mirth Connect
+   * [OpenHIM](http://openhim.org/) - Open health information mediator  
 
 ### Hardware
    * [Gluco](https://github.com/nebulabio/gluco) - An open source glucometer
