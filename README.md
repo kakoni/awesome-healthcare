@@ -94,3 +94,4 @@ A curated list of awesome open health software, libraries, tools and resources, 
 ### Hardware
    * [Gluco](https://github.com/nebulabio/gluco) - An open source glucometer
    * [MobilECG II](https://github.com/xdever/MobilECG-II) - open source clinical grade Holter ECG. 
+   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS)
