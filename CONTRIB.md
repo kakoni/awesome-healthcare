@@ -12,6 +12,7 @@ A curated list of awesome software, libraries, tools and resources used in healt
 ### Database
 * [Couchbase](http://www.couchbase.com) - Couchbase server
 * [PostgreSQL](http://http://www.postgresql.org) - PostgreSQL
+* [Riak](http://basho.com/products/riak-kv/) - Riak KV
 
 ### Interfaces
  * [HAPI-Fhir](http://jamesagnew.github.io/hapi-fhir/) - HAPI-FHIR library 
