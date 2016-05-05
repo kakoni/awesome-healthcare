@@ -1,7 +1,7 @@
 # awesome-health-contrib
 A curated list of awesome software, libraries, tools and resources used in healthcare.
 
-- [Awesome Health](https://github.com/kakoni/awesome-health#awesome-health)
+- [Awesome Health Contrib](https://github.com/kakoni/awesome-health/blob/master/CONTRIB.md)
   - [Databases](#database)
   - [Interfaces](#interfaces)
   - [Workflow/Rule engines](#workflow)
