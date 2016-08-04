@@ -42,7 +42,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 * [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines management
 
 ### Nursing
- * [open-eObs](https://www.neovahealth.co.uk/page/open-eobs) - The observations and clinical assessment platform offers a real-time view of all patients across a ward.
+ * [open-eObs](http://www.openeobs.org) - The observations and clinical assessment platform offers a real-time view of all patients across a ward.
 
 ### Radiology
  * [dcm4che](http://www.dcm4che.org/) - Open Source Clinical Image and Object Management
