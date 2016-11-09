@@ -99,4 +99,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
    * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS)
 
 ### Bioinformatics
+   * [ADAM](https://github.com/bigdatagenomics/adam) - ADAM is a genomics analysis platform
+   * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis
+   * [Galaxy](https://galaxyproject.org/) - an open, web-based platform for data intensive biomedical research. 
    * [wregex](http://ehubio.ehu.eus/wregex/) - Open source amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM)
