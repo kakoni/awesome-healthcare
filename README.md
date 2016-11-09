@@ -16,6 +16,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
   - [Integration](#integration)
   - [Research](#research)
   - [Hardware](#hardware)
+  - [Bioinformatics](#bioinformatics)
 
 
 ### EHR
@@ -96,3 +97,6 @@ A curated list of awesome open health software, libraries, tools and resources, 
    * [Gluco](https://github.com/nebulabio/gluco) - An open source glucometer
    * [MobilECG II](https://github.com/xdever/MobilECG-II) - open source clinical grade Holter ECG. 
    * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS)
+
+### Bioinformatics
+   * [wregex](http://ehubio.ehu.eus/wregex/) - Open source amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM)
