@@ -49,7 +49,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 ### Radiology
  * [dcm4che](http://www.dcm4che.org/) - Open Source Clinical Image and Object Management
  * [Horos](http://www.horosproject.org/) - Open source medical image viewer
- * [OpenREM](http://http://openrem.org/) - Radiation Exposure Monitoring for the physicist
+ * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for the physicist
  * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
  
 ### Dental
