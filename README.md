@@ -26,6 +26,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - EHRServer is a generic, minimal, open source, standard-based, service-oriented, openEHR clinical data storage.
 * [FreeMedForms EMR](https://freemedforms.com) - FreeMedForms EMR (Electronic Medical Record) is free and open source software
 * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern hospital information system possible to the least resourced environments through open source.
+* [Odoo Medical](https://github.com/OCA/vertical-medical) - A free universal Health and Hospital Information System
 * [OpenClinic](http://openclinic.sourceforge.net/) - Open source, medical records system
 * [OpenEMR](http://www.open-emr.org/) - Free and Open Source electronic health records and medical practice management application
 * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology 
