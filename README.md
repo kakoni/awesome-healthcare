@@ -39,6 +39,7 @@ A curated list of awesome open health software, libraries, tools and resources, 
 ### Specifications
 * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
 * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
+* [StandardHealthRecord] - Open specification for health record format, aiming to be more precise than existing formats
 
 
 ### Prescribing
