@@ -76,6 +76,8 @@ A curated list of awesome open health software, libraries, tools and resources, 
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit
+  * [Java HL7](http://hl7api.sourceforge.net/) - Java HL7 library. Very mature project with amazing HL7 message coverage
+  * [Node HL7 Complete](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - A simple library for parsing messages of Health Level 7 (HL7) version 2.x into Python objects
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - fhir client implementation in ruby
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library
