@@ -40,7 +40,8 @@ A curated list of awesome open health software, libraries, tools and resources, 
 * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources
 * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
 * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats
-
+* [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview
+* [Continuity of Care Record](https://corepointhealth.com/resource-center/white-papers/understanding-continuity-care-record) - Understanding the Continuity of Care Record
 
 ### Prescribing
 * [OpenEP](http://openep.org) - open source project intended to deliver a suite of medicines management apps to improve the safety and efficiency of prescribing and medicines management
