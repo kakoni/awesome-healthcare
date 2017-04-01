@@ -43,6 +43,8 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
   * [SMART on FHIR](http://docs.smarthealthit.org/) - Open standards based technology platform.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
+  * [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview
+  * [Continuity of Care Record](https://corepointhealth.com/resource-center/white-papers/understanding-continuity-care-record) - Understanding the Continuity of Care Record
 
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
