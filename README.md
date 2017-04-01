@@ -1,5 +1,6 @@
-# awesome-health
-A curated list of awesome open health software, libraries, tools and resources, inspired by awesome-postgresql
+# Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome open health software, libraries, tools and resources, inspired by awesome-postgresql.
 
 - [Awesome Health](https://github.com/kakoni/awesome-health#awesome-health)
   - [EHR](#ehr)
