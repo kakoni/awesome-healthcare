@@ -121,4 +121,5 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM).
   
 ### Datasets
+  * [openSNP](https://opensnp.org/) - repository to which users can upload their SNP-sets
   * [TCIA](http://www.cancerimagingarchive.net/) -  The Cancer Imaging Archive
