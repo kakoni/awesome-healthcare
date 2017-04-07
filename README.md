@@ -21,6 +21,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   - [Hardware](#hardware)
   - [Bioinformatics](#bioinformatics)
   - [Datasets](#datasets)
+  - [Enterprise Master Patient Index](#empi)
 
 
 ### EHR
@@ -123,3 +124,7 @@ A curated list of awesome open source health software, libraries, tools and reso
 ### Datasets
   * [openSNP](https://opensnp.org/) - repository to which users can upload their SNP-sets
   * [TCIA](http://www.cancerimagingarchive.net/) -  The Cancer Imaging Archive
+
+### EMPI
+  * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation
+  * [OpenEMPI](http://www.openempi.org/) - Feature-full EMPI solution
