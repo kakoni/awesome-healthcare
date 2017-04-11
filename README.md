@@ -26,7 +26,7 @@ A curated list of awesome open source health software, libraries, tools and reso
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
-  * [EHRServers](http://cabolabs.com/en/projects) - the openEHR clinical data repository
+  * [EHRServers](http://cabolabs.com/en/projects) - The openEHR clinical data repository.
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record (EMR), Hospital Management, and Health Information System (HIS).
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
@@ -47,8 +47,8 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
   * [SMART on FHIR](http://docs.smarthealthit.org/) - Open standards based technology platform.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
-  * [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview
-  * [Continuity of Care Record](https://corepointhealth.com/resource-center/white-papers/understanding-continuity-care-record) - Understanding the Continuity of Care Record
+  * [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview.
+  * [Continuity of Care Record](https://corepointhealth.com/resource-center/white-papers/understanding-continuity-care-record) - Understanding the Continuity of Care Record.
 
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
@@ -73,13 +73,13 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient and clinician-facing apps.
   * [C3-PRO-Server](https://github.com/chb/c3-pro-server) - Highly reliable and scalable FHIR compliant web server.
   * [CareKit](https://github.com/carekit-apple/CareKit/) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
-  * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPPA, and HL7 compliant applications
+  * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPPA, and HL7 compliant applications.
   * [FHIRBase](http://fhirbase.github.io) - Storage based on the FHIR Standard.
-  * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang
+  * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server.
-  * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X
+  * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
@@ -91,9 +91,8 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
-
 ### Applications
-  * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles
+  * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### PHR
@@ -122,9 +121,9 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM).
   
 ### Datasets
-  * [openSNP](https://opensnp.org/) - repository to which users can upload their SNP-sets
-  * [TCIA](http://www.cancerimagingarchive.net/) -  The Cancer Imaging Archive
+  * [openSNP](https://opensnp.org/) - Repository to which users can upload their SNP-sets.
+  * [TCIA](http://www.cancerimagingarchive.net/) - The Cancer Imaging Archive.
 
 ### EMPI
-  * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation
-  * [OpenEMPI](http://www.openempi.org/) - Feature-full EMPI solution
+  * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+  * [OpenEMPI](http://www.openempi.org/) - Feature-full EMPI solution.
