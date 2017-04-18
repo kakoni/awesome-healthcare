@@ -122,8 +122,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM).
   
 ### Datasets
-  * [openSNP](https://opensnp.org/) - Repository to which users can upload their SNP-sets.
-  * [TCIA](http://www.cancerimagingarchive.net/) - The Cancer Imaging Archive.
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data(for machine learning).
 
 ### EMPI
   * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
