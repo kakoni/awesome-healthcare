@@ -88,8 +88,8 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
-  * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
-  * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
+  * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+  * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
