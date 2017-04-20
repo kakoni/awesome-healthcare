@@ -20,6 +20,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   - [Research](#research)
   - [Hardware](#hardware)
   - [Bioinformatics](#bioinformatics)
+  - [Data](#data)
   - [Datasets](#datasets)
   - [Enterprise Master Patient Index](#empi)
 
@@ -46,6 +47,7 @@ A curated list of awesome open source health software, libraries, tools and reso
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
   * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
+  * [Open mHealth](http://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](http://docs.smarthealthit.org/) - Open standards based technology platform.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
   * [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview.
@@ -86,7 +88,8 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
-  * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
+  * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+  * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
@@ -120,6 +123,9 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM).
+  
+### Data
+  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
   
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data(for machine learning).
