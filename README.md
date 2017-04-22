@@ -66,6 +66,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [open-eObs](http://www.openeobs.org) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
 
 ### Imaging
+  * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
@@ -78,7 +79,6 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
-
 
 ### Dental
   * [Open Dental](http://www.opendental.com) - Practice Management Software.
@@ -111,7 +111,6 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Applications
-  * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
