@@ -9,7 +9,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   - [Specifications](#specifications)
   - [Prescribing](#prescribing)
   - [Nursing](#nursing)
-  - [Radiology](#radiology)
+  - [Imaging](#Imaging)
   - [Dental](#dental)
   - [Laboratory](#laboratory)
   - [Libraries](#libraries)
@@ -65,8 +65,9 @@ A curated list of awesome open source health software, libraries, tools and reso
 ### Nursing
   * [open-eObs](http://www.openeobs.org) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
 
-### Radiology
+### Imaging
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
+  * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Horos](https//:www.horosproject.org/) - Medical image viewer.
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
