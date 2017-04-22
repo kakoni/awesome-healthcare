@@ -38,6 +38,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
   * [HOSxP](http://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](http://librehealth.io/projects/lh-ehr/) - Clinically-focused electronic health record (EHR) system.
+  * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
   * [OpenClinic](http://openclinic.sourceforge.net/) - Medical Records System.
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and medical practice management application.
