@@ -34,6 +34,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com) - Electronic Medical Record software.
   * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern hospital information system possible to the least resourced environments.
+  * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
   * [LibreHealth EHR](http://librehealth.io/projects/lh-ehr/) - Clinically-focused electronic health record (EHR) system.
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
   * [OpenClinic](http://openclinic.sourceforge.net/) - Medical Records System.
@@ -126,10 +127,10 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix (PSSM).
-  
+
 ### Data
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
-  
+
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data(for machine learning).
 
