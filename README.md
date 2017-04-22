@@ -134,6 +134,7 @@ A curated list of awesome open source health software, libraries, tools and reso
 
 ### Data
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
+  * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
