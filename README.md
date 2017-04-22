@@ -9,7 +9,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   - [Specifications](#specifications)
   - [Prescribing](#prescribing)
   - [Nursing](#nursing)
-  - [Imaging](#Imaging)
+  - [Imaging](#imaging)
   - [Dental](#dental)
   - [Laboratory](#laboratory)
   - [Libraries](#libraries)
