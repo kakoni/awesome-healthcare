@@ -98,6 +98,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Applications
+  * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
