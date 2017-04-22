@@ -147,7 +147,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data(for machine learning).
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data (for machine learning).
 
 ### EMPI
   * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
