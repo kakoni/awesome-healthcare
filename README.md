@@ -70,6 +70,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
   * [Horos](https//:www.horosproject.org/) - Medical image viewer.
+  * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
