@@ -27,6 +27,7 @@ A curated list of awesome open source health software, libraries, tools and reso
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
+  * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
   * [EHRServers](http://cabolabs.com/en/projects) - The openEHR clinical data repository.
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record (EMR), Hospital Management, and Health Information System (HIS).
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
