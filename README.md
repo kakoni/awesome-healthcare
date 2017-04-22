@@ -72,7 +72,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https//www.horosproject.org/) - Medical image viewer.
-  * [InVesalius](https://www.cti.gov.br/invesalius/) - 3 dimensional image reconstruction from 2 dimensional samples.
+  * [InVesalius](https://www.cti.gov.br/invesalius/) - 3 dimensional image reconstructor from 2 dimensional samples.
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
