@@ -1,6 +1,6 @@
 # Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome open source health software, libraries, tools and resources, inspired by awesome-postgresql.
+Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
 
 ## Contents
 
