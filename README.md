@@ -148,5 +148,5 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning.
 
 ### EMPI
-  * [MEDIC Client Registry RI](https://mediccr.codeplex.com/) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+  * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
   * [OpenEMPI](http://www.openempi.org/) - Feature-full Enterprise Master Patient Index solution.
