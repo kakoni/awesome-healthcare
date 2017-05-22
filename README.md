@@ -149,4 +149,3 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
-  * [OpenEMPI](http://www.openempi.org/) - Feature-full Enterprise Master Patient Index solution.
