@@ -80,6 +80,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Dental
   * [Open Dental](http://www.opendental.com) - Practice Management Software.
+  * [OpenMolar](https://github.com/rowinggolfer/openmolar2) - Dental Practice Management Software. 
 
 ### Laboratory
   * [Bika](https://www.bikalims.org/) - LIMS.
