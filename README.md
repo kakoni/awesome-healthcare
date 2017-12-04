@@ -140,6 +140,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Data
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
+  * [Cedar](http://projectcedar.org/) - open source tool for testing the strength of Electronic Clinical Quality Measure
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
