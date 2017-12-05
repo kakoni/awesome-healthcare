@@ -22,6 +22,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Data](#data)
 - [Datasets](#datasets)
 - [Enterprise Master Patient Index](#empi)
+- [Machine Learning)(#machine learning)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -77,6 +78,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
+  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
@@ -152,3 +154,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+  
+### Machine Learning
+  * [Computational Healthcare Library](http://www.computationalhealthcare.com/library) - A platform for analysis & development of machine learning models using large de-identified healthcare datasets. 
+  * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
