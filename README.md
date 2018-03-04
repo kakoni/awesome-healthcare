@@ -87,8 +87,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMolar](http://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
-  * [Bika](https://www.bikalims.org/) - LIMS.
+  * [Bika](https://www.bikalims.org/) - LIMS. - Superseded by SENAITE (see below)
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
+  * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
 ### Frameworks
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient and clinician-facing apps.
