@@ -104,6 +104,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
+  * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
+  * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
