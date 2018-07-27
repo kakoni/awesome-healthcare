@@ -23,6 +23,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Datasets](#datasets)
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
+- [Compliance](#compliance)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
