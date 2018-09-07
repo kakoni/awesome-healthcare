@@ -23,6 +23,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Datasets](#datasets)
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
+- [Compliance](#compliance)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -134,6 +135,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Integration
   * [Mirth Connect](https://www.mirth.com) - Cross-platform interface engine that enables bi-directional sending of HL7 messages between systems and applications.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
+  * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
 ### Hardware
   * [echOpen](http://echopen.org/) - Low-cost (affordable) echo-stethoscope.
@@ -165,3 +167,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Machine learning
   * [Computational Healthcare Library](http://www.computationalhealthcare.com/library) - A platform for analysis & development of machine learning models using large de-identified healthcare datasets. 
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
+
+### Compliance
+* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
