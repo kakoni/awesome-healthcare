@@ -126,6 +126,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### PHR
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
+  * [hGraph](http://www.hgraph.org) - A visual representation of a patient's health status in one picture.
 
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
