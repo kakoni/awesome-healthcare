@@ -114,6 +114,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [FHIR protocol buffers](FHIR protocol buffers) - a Google implementation of protocol buffers for FHIR.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+  * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
