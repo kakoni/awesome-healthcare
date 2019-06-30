@@ -24,6 +24,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
+- [Asset Management](#asset-management)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -181,3 +182,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Compliance
 * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+
+### Asset Management
+* [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
