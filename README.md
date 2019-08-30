@@ -25,6 +25,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
+- [Logistics](#logistics)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -93,7 +94,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMolar](http://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
-  * [Bika](https://www.bikalims.org/) - LIMS. - Superseded by SENAITE (see below)
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
@@ -186,3 +186,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Asset Management
 * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+
+### Logistics
+* [OpenLIMS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
+
