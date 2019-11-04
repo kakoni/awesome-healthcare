@@ -51,6 +51,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
+  * [Salesforce Health Cloud](https://www.salesforce.com/solutions/industries/healthcare/health-cloud/) - Salesforce Health Cloud provides healthcare cloud services that let you engage more deeply with patients across any device.
   * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
 
 ### Specifications
