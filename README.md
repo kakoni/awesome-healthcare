@@ -191,5 +191,5 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Logistics
-* [OpenLIMS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
+* [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
 
