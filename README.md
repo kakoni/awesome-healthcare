@@ -33,7 +33,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
   * [ERPNext](https://erpnext.com/healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
-  * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
+  * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
   * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
