@@ -36,7 +36,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
-  * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
+  * [FreeHealth EHR](https://github.com/FreeHealth) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com) - Electronic Medical Record software.
   * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern Hospital Information System possible to the least resourced environments.
   * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
@@ -51,7 +51,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
-  * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
+  * [Ripple OSI](https://www.openhealthhub.org/t/healthcare-driven-by-open-source-software-ripple-osi/) - NHS funded community-led initiative towards an integrated Digital Care Record Platform.
   * [VistA](http://worldvista.org/AboutVistA) - Health Information Technology System.
   * [Epic](https://www.epic.com/software) - One marker of health information technology and EHR.
   * [Cerner](https://www.cerner.com/) - Another marker of health information technology and EHR.
