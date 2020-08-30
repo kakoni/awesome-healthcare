@@ -36,7 +36,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
-  * [FreeHealth EHR](https://github.com/FreeHealth) - Electronic Health Record software.
+  * [FreeHealth EHR](https://freehealth.io//en/start) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com) - Electronic Medical Record software.
   * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern Hospital Information System possible to the least resourced environments.
   * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
