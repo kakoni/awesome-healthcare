@@ -36,7 +36,7 @@ for line in Lines:
             #print( "***"+" Error")
 
 if len(errorurls) > 0:
-    print("******************Please doule whether following urls are exist********************")
+    print("******************Please doulecheck whether following urls are exist********************")
 else:
     print("All urls in README.md are exist")   
 for error in errorurls:
