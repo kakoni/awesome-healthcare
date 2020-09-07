@@ -29,7 +29,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
-  * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
+  * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
   * [ERPNext](https://erpnext.com/healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
@@ -51,8 +51,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
-  * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
-  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
+  * [Ripple](https://ripple.foundation/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
 
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
@@ -70,16 +69,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Nursing
-  * [open-eObs](http://www.openeobs.org) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
+  * [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
-  * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
+  * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - a standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
-  * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
+  * [Fiji](https://imagej.net/Fiji) - Fiji Is Just ImageJ: an open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://www.horosproject.org/) - Medical image viewer.
   * [InVesalius](https://www.cti.gov.br/invesalius/) - 3 dimensional image reconstructor from 2 dimensional samples.
@@ -151,7 +150,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Open cancer](http://opencancer.net/) - Cancer data management.
 
 ### Integration
-  * [Mirth Connect](https://www.mirth.com) - Cross-platform interface engine that enables bi-directional sending of HL7 messages between systems and applications.
+  * [Mirth Connect](https://www.mirthcorp.com/community/issues/browse/MIRTH/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel) - Cross-platform interface engine that enables bi-directional sending of HL7 messages between systems and applications.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
@@ -173,7 +172,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Cedar](http://projectcedar.org/) - Open source tool for testing the strength of Electronic Clinical Quality Measure
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
-  * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
+  * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
