@@ -104,6 +104,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPPA, and HL7 compliant applications.
   * [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+  * [IBM FHIR Server](https://github.com/IBM/FHIR) - modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
@@ -168,6 +169,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
+  * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface
+  * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
@@ -187,5 +190,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Logistics
+* [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
 
