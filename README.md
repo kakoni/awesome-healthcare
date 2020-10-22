@@ -63,6 +63,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
+  * [DICOM Standards Browser](https://dicom.innolitics.com/) - The Innolitics DICOM Standards Browser provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
