@@ -82,7 +82,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Fiji](https://imagej.net/Fiji) - Fiji Is Just ImageJ: an open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://horosproject.org) - Medical image viewer.
-  * [InVesalius](https://www.cti.gov.br/pt-br/invesalius) - 3 dimensional image reconstructor from 2 dimensional samples.
+  * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
