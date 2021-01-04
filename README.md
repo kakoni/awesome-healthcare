@@ -172,6 +172,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface
+  * [OpenSAFELY](https://opensafely.org) - A new secure analytics platform for electronic health records in the NHS
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
@@ -186,12 +187,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 
 ### Compliance
-* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+  * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
 
 ### Asset Management
-* [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+  * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Logistics
-* [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
-* [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
+  * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+  * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
 
