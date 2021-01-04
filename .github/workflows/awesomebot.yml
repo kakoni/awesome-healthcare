@@ -15,7 +15,7 @@ jobs:
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot README.md  --allow-ssl --white-list hosxp.net
+      run: awesome_bot README.md --allow-ssl --white-list hosxp.net
     - uses: actions/upload-artifact@v1
       if: failure()
       with:
