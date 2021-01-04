@@ -183,7 +183,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
   
 ### Machine learning
-  * [Computational Healthcare Library](https://www.computationalhealthcare.com/library) - A platform for analysis & development of machine learning models using large de-identified healthcare datasets. 
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 
 ### Compliance
