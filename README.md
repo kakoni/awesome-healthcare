@@ -64,7 +64,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
-  * [DICOM Standards Browser](https://dicom.innolitics.com/) - The Innolitics DICOM Standards Browser provides an effective way to learn the DICOM standard and inspect DICOM attributes.
+  * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - The Innolitics DICOM Standards Browser provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
@@ -120,7 +120,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in Go
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - A C# DICOM Library
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity
-  * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) - The official .NET API for HL7 FHIR.
+  * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [FHIR protocol buffers](https://github.com/google/fhir) - a Google implementation of protocol buffers for FHIR.
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
