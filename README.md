@@ -76,7 +76,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
-  * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer aimed at both scientists and lay people.
+  * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
   * [Fiji](https://imagej.net/Fiji) - Fiji Is Just ImageJ: an open-source platform for biological-image analysis.
