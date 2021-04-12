@@ -126,6 +126,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+  * [iSyntax for Digital Pathology](https://www.openpathology.philips.com/isyntax/) - SDK for writing, reading and post-processing data in iSyntax format.
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
