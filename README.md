@@ -79,7 +79,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
-  * [Fiji](https://imagej.net/software/fiji) - Open-source platform for biological-image analysis.
+  * [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://horosproject.org) - Medical image viewer.
   * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
