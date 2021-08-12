@@ -79,7 +79,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
-  * [Fiji](https://imagej.net/Fiji) - Open-source platform for biological-image analysis.
+  * [Fiji](https://imagej.net/software/fiji) - Open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://horosproject.org) - Medical image viewer.
   * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
@@ -157,7 +157,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
 ### Hardware
-  * [echOpen](http://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
+  * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer.
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
@@ -175,7 +175,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
-  * [OpenSAFELY](https://opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
+  * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
