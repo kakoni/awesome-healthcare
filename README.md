@@ -118,6 +118,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
+  * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
