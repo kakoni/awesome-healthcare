@@ -91,6 +91,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
+  * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
@@ -138,6 +139,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
