@@ -189,6 +189,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   
 ### Machine learning
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
+  * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
