@@ -1,4 +1,4 @@
-# Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Health [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
 
@@ -50,7 +50,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
-  * [Ripple](https://ripple.foundation/) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
+  * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
@@ -92,7 +92,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
-  * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
