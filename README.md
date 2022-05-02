@@ -103,6 +103,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Frameworks
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
+  * [Blaze](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
   * [CareKit](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
   * [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
@@ -114,6 +115,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
+  * [Sushi](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
@@ -155,6 +157,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
+  * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
 
