@@ -106,6 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Blaze](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
   * [CareKit](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
+  * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
   * [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
@@ -119,6 +120,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
+  * [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
   * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
@@ -126,6 +128,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+  * [FHIRKit Client](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
+  * [FHIRModels](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
   * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [FHIR protocol buffers](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
@@ -159,6 +163,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
+  * [Open eHealth Integration Platform](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
   * [OpenHIM](http://openhim.org/) - Health information mediator.
 
 ### Hardware
