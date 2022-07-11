@@ -26,6 +26,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
+- [Analytics](#analytics)
 
 ### EHR
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
@@ -206,3 +207,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 
+### Analytics
+  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library. Atlas business intelligence library plugs in to your existing reporting platforms, extracts useful metadata, and displays it in a unified report library where you can easily search for, document, and launch reports.
+  * [Atlas Automation Hub](https://github.com/atlas-bi/atlas-automation-hub) A task scheduling tool for getting data from a source and depositing it in a destination - sql servers to SFTP servers.
