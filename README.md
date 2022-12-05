@@ -189,6 +189,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library. Atlas business intelligence library plugs in to your existing reporting platforms, extracts useful metadata, and displays it in a unified report library where you can easily search for, document, and launch reports.
+  * [Atlas Automation Hub](https://github.com/atlas-bi/atlas-automation-hub) A task scheduling tool for getting data from a source and depositing it in a destination - sql servers to SFTP servers.
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
@@ -206,7 +208,3 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Logistics
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
-
-### Analytics
-  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library. Atlas business intelligence library plugs in to your existing reporting platforms, extracts useful metadata, and displays it in a unified report library where you can easily search for, document, and launch reports.
-  * [Atlas Automation Hub](https://github.com/atlas-bi/atlas-automation-hub) A task scheduling tool for getting data from a source and depositing it in a destination - sql servers to SFTP servers.
