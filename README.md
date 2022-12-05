@@ -26,6 +26,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
+- [Analytics](#analytics)
 
 ### EHR
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
@@ -183,6 +184,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Data
+  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library.
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
   * [Cedar](https://projectcedar.org/) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
@@ -208,4 +210,3 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Logistics
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
-
