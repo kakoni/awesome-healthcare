@@ -149,6 +149,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Python 835 Parser](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
   * [Z-Anatomy](https://www.z-anatomy.com) - The libre atlas of anatomy
 
