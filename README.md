@@ -95,6 +95,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenSlide](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+  * [Slim](https://github.com/herrmannlab/slim) - Interoperable web viewer and annotation tool for computational pathology.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
