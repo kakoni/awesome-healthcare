@@ -33,7 +33,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
-  * [ehrapy](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
   * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
   * [ERPNext](https://erpnext.com/open-source-healthcare) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
@@ -133,6 +132,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+  * [ehrapy](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
   * [FHIRKit Client](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
