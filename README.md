@@ -21,6 +21,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Bioinformatics](#bioinformatics)
 - [Data](#data)
 - [Datasets](#datasets)
+- [Design](#design)
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
@@ -204,6 +205,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+
+### Design
+  * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
+  * [Health Icons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
