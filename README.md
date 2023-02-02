@@ -19,6 +19,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Research](#research)
 - [Hardware](#hardware)
 - [Bioinformatics](#bioinformatics)
+- [Books](#books)
 - [Data](#data)
 - [Datasets](#datasets)
 - [Design](#design)
@@ -191,6 +192,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
+
+### Books
+  * [Inspired EHRs](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
 
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library.
