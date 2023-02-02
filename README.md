@@ -164,6 +164,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+  * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
 ### PHR
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
