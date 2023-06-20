@@ -113,6 +113,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [CareKit](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
   * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+  * [CyclOps](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
   * [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
