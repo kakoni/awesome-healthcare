@@ -56,16 +56,15 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Specifications
+  * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
+  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
+  * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
+  * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2
+  * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases.
   * [OpenEHR](https://www.openehr.org) - Open specification upon which software can be built.
   * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - Open standards based technology platform.
-  * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (free account required).
-  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
-  * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
-  * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases.
-  * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - High quality, computable source of patient information provided by establishing a single target for health data standardization.
-  * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
