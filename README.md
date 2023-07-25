@@ -19,8 +19,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Research](#research)
 - [Hardware](#hardware)
 - [Bioinformatics](#bioinformatics)
+- [Books](#books)
 - [Data](#data)
 - [Datasets](#datasets)
+- [Design](#design)
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
@@ -164,6 +166,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+  * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
 ### PHR
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
@@ -193,6 +196,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
+### Books
+  * [Inspired EHRs](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/Library) The unified report library.
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
@@ -206,6 +212,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+
+### Design
+  * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
+  * [Health Icons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
