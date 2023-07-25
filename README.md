@@ -37,7 +37,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
   * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
-  * [ERPNext](https://erpnext.com/open-source-healthcare) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+  * [ERPNext](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [HOSxP](https://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
@@ -60,7 +60,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEHR](https://www.openehr.org) - Open specification upon which software can be built.
   * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - Open standards based technology platform.
-  * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
+  * [StandardHealthRecord](https://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (free account required).
   * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
@@ -106,7 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMolar](https://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
-  * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
+  * [OpenELIS](https://openelis-global.org) - Laboratory Information System for Global Health.
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
 ### Frameworks
@@ -161,7 +161,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
-  * [Z-Anatomy](https://www.z-anatomy.com) - The libre atlas of anatomy
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
