@@ -15,6 +15,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Frameworks](#frameworks)
 - [Applications](#applications)
 - [Personal Health Record](#phr)
+- [Telemedicine](#telemedicine)
 - [Integration](#integration)
 - [Research](#research)
 - [Hardware](#hardware)
@@ -168,6 +169,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### PHR
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
+
+### Telemedicine
+  * [Healthcare worker at home (HCW@home)](https://github.com/hcw-home) - HCW@Home is a scalable, institution-level secure video teleconsultation system for typical telemedicine scenarios, achieved through close collaboration with healthcare professionals. Tested on the field by public hostpitals and major NGOs, this solution is known for its reliability in low internet zones and its high security standards. It is fully open-source (GPLv3) and offers integrated features for chat, audio, and video calls using WebRTC. 
 
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
