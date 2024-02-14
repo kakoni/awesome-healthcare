@@ -172,6 +172,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
+  * [PWI - Patient WellCare Interface](https://github.com/twentyone24/Patient-Wellcare-Interface) - MedPlum-based Personal Health Record Platform.
 
 ### Telemedicine
    * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
