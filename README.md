@@ -32,6 +32,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Analytics](#analytics)
 
 ### EHR
+  * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
@@ -58,7 +59,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
-  * [Continuity of Care Record](https://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
   * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2
@@ -119,6 +119,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+  * [Inferno](https://inferno-framework.github.io) - providing testing tools for the FHIR
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
@@ -177,7 +178,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
-  * [LabKey Server](https://www.labkey.org) - Platform for Translational Research.
+  * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
@@ -188,7 +189,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
 
 ### Hardware
-  * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer.
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
@@ -210,7 +210,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EDS_NLP](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
   * [eds-scikit](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data. 
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
-  * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
