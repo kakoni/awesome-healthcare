@@ -34,6 +34,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### EHR
   * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
+  * [CHT](https://communityhealthtoolkit.org/) - Community Health Toolkit - set of Open Source tools that support community healthcare
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
