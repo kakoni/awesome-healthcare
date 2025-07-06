@@ -99,6 +99,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Slim](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
   * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
+  * [MedPy](https://github.com/loli/medpy) - Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.
 
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
@@ -230,6 +231,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+  * [NiftyNet](https://github.com/NifTK/NiftyNet) - TensorFlow-based open source platform for medical image analysis and deep learning, supporting tasks like segmentation and classification of MRI and CT images.
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
