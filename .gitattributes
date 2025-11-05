@@ -1,0 +1,5 @@
+# Linguist Detection
+# ==================
+*.md language-linguist=Markdown
+*.gitattributes language-linguist=Git Attributes
+*.yml language-linguist=YAML
