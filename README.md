@@ -99,6 +99,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Slim](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
   * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
+  * 
+  * ### Фотодинамическая терапия (ФДТ)
+  * **OpenPDT Toolkit** – инструменты с открытым исходным кодом для планирования, моделирования и оптимизации протоколов фотодинамической терапии. Включает моделирование потока энергии, моделирование взаимодействия света с тканями и расчёт дозы.  
+  https://github.com/rolloerro/openpdt-toolkit
+
+  * **PDT-LightSim** – симулятор распространения света исследовательского уровня для ФДТ, поддерживающий моделирование оптических свойств тканей, затухание в зависимости от длины волны и перенос Монте-Карло.  
+  https://github.com/rolloerro/pdt-lightsim
+
+  * **PDT-Kinetics-Library** – библиотека для моделирования фармакокинетики фотосенсибилизаторов, генерации активных форм кислорода (ROS) и дозиметрического анализа для исследований ФДТ.  
+  https://github.com/rolloerro/pdt-kinetics
 
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
