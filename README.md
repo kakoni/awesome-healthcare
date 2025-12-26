@@ -197,7 +197,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Bioinformatics
   * [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
   * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+  * [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping in tissue samples.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
+  * [Scanpy](https://scanpy.readthedocs.io/) - Single-cell RNA-seq analysis library in Python.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Books
