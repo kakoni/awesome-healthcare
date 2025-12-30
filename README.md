@@ -240,4 +240,4 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 
 ### Compliance
-  * [HealthStack](https://github.com/the-momentum/healthstack) - Terraform modules for building secure and compliant healthcare infrastructure on AWS.
+  * [HealthStack](https://github.com/the-momentum/healthstack) – Terraform modules for secure and compliant healthcare infrastructure on AWS.
