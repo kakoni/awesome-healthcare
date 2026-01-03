@@ -163,6 +163,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+  * [Vedika API](https://vedika.io) - (Commercial Software) Vedic astrology API for wellness and lifestyle applications with AI-powered chatbot, birth chart analysis, horoscope, kundali matching, and panchang calculations. Supports 22 languages with 97% accuracy.
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
