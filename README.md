@@ -7,7 +7,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [EHR](#ehr)
 - [Scribe](#scribe)
 - [Specifications](#specifications)
-- [Prescribing](#prescribing)
 - [Nursing](#nursing)
 - [Imaging](#imaging)
 - [Dental](#dental)
@@ -70,9 +69,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEHR](https://www.openehr.org) - Open specification upon which software can be built.
   * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - Open standards based technology platform.
-  
-### Prescribing
-  * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Nursing
   * [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
