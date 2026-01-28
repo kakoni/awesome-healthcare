@@ -29,7 +29,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
-- [Analytics](#analytics)
 
 ### EHR
   * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
