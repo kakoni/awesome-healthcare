@@ -5,6 +5,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ## Contents
 
 - [EHR](#ehr)
+- [Scribe](#scribe)
 - [Specifications](#specifications)
 - [Prescribing](#prescribing)
 - [Nursing](#nursing)
@@ -56,6 +57,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
   * [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
+
+### Scribe
+  * [OpenScribe](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
 
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
