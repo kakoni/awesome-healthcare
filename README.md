@@ -240,3 +240,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenBoxes](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
+
+### Compliance
+  * [HealthStack](https://github.com/the-momentum/healthstack) – Terraform modules for secure and compliant healthcare infrastructure on AWS.
