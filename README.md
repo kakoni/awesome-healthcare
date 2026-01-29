@@ -99,6 +99,22 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
+### Photodynamic Therapy (PDT)
+
+Resources and practical tools related to Photodynamic Therapy (PDT), including calculations, mechanisms, and clinical support utilities.
+
+#### Libraries
+- **pdt-core** — Python library for photodynamic therapy dose, light exposure, and treatment parameter calculations  
+  https://github.com/rolloerro/pdt-core
+
+#### Tools
+- **FDTcalc05_bot** — Telegram bot for calculating PDT parameters in real clinical workflows  
+  https://github.com/rolloerro/FDTcalc05_bot
+
+#### Educational Resources
+- **Awesome Photodynamic Therapy (PDT)** — curated collection of PDT mechanisms, equipment, protocols, tables, and clinical references  
+  https://github.com/rolloerro/Awesome-Photodynamic-Therapy-PDT
+
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
   * [OpenMolar](https://openmolar.com/) - Dental Practice Management Software. 
