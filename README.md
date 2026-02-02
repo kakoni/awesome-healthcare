@@ -74,6 +74,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
+  * [Clara Train SDK](https://docs.nvidia.com/clara/) - NVIDIA's platform for medical imaging AI, integrating MONAI for model training and deployment, with support for federated learning.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
@@ -87,6 +88,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
+  * [MedPy](https://github.com/loli/medpy) - Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.
   * [Kaapana](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
   * [Kheops](https://kheops.online) - Open source platform for sharing medical images
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
@@ -95,9 +97,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenSlide](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+  * [SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI) - Extension for 3D Slicer focused on diffusion MRI analysis and visualization, supporting neuroscience research.
   * [Slim](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
   * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
+  * [Pydicom](https://github.com/pydicom/pydicom) - Pure Python package for working with DICOM files, enabling reading, writing, and manipulation of medical imaging data.
+
 
 ### Dental
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
@@ -200,6 +205,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping in tissue samples.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
+  * [scikit-bio](https://github.com/scikit-bio/scikit-bio) - Python library for bioinformatics, providing tools for sequence analysis, microbiome studies, and statistical analysis of biological data.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Books
@@ -219,6 +225,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [MIMIC-III](https://github.com/MIT-LCP/mimic-iii) - Open source database of de-identified intensive care unit patient data, supporting research in clinical informatics and machine learning.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
@@ -231,6 +238,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
+  * [NiftyNet](https://github.com/NifTK/NiftyNet) - TensorFlow-based open source platform for medical image analysis and deep learning, supporting tasks like segmentation and classification of MRI and CT images.
+  * [PathML](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
 ### Asset Management
