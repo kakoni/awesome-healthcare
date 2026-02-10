@@ -232,6 +232,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+  * [FallRiskPredictor](https://github.com/DanteTrb/fall-risk-predictor): Predict fall risk from wearable IMU with SHAP-based explainability.
+  * [ParkinsonProdrome-XAI-GAN](https://github.com/DanteTrb/Prodromal_Parkinson): Identifying biomechanical signatures of prodromal Parkinson using SHAPSet plots and ctGAN.
+
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
