@@ -168,6 +168,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
+  * [MDTools](https://mdtools.org) - Free, open-source clinical calculators and lab reference values. 100+ evidence-based tools including GCS, MELD, GFR, CHA₂DS₂-VASc, drug dosing calculators, and DICOM viewer. No login required.
 
 ### PHR
   * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
