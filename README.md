@@ -180,6 +180,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+  * [MetaReview](https://github.com/TerryFYL/metareview) - Free browser-based meta-analysis tool for systematic reviews with forest plots, funnel plots, AI literature screening, and DOCX report export.
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
