@@ -58,6 +58,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Scribe
   * [OpenScribe](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
+  * [WellNotes](https://wellnotesai.com) - HIPAA-compliant clinical documentation platform for therapists, BCBAs, and social workers. Generates structured session notes from typed observations or voice dictation using clinical templates (SOAP, DAP, BIRP, and more).
 
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
