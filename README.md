@@ -167,6 +167,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+  * [SubstanceWiki](https://github.com/yagcioglutoprak/substance_wiki) - Open-source encyclopedia of psychoactive substances with dosage guides, drug interaction checker, subjective effects index, and harm reduction information.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
 ### PHR
