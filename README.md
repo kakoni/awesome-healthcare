@@ -228,6 +228,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
   
 ### Machine learning
+  * [Healthcare Agents](https://github.com/ajhcs/healthcare-agents) - 51 specialized AI agents for healthcare administration covering revenue cycle, compliance, quality, clinical operations, payer relations, health IT, and more, with real regulatory citations.
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
