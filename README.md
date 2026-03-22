@@ -128,6 +128,7 @@ A curated list of awesome open source health software, libraries, tools and reso
   
 ### Data
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+  * [mock.health](https://mock.health) - FHIR R4 sandbox with thousands of clinically realistic synthetic patients, SMART on FHIR auth, and US Core 6.1 compliance.
   
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data(for machine learning).
