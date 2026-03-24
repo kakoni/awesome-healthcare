@@ -4,6 +4,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ## Contents
 
+- [DailyVox](https://getdailyvox.com) - AI voice diary for iOS with automatic mood tracking via on-device sentiment analysis. ([App Store](https://apps.apple.com/app/id6760454642))
 - [EHR](#ehr)
 - [Scribe](#scribe)
 - [Specifications](#specifications)
