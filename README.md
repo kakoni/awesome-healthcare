@@ -71,6 +71,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Nursing
   * [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
+  * [Professional License Verification API](https://rapidapi.com/lulzasaur9192/api/professional-license-verification) - Verify active nursing and contractor licenses across US state boards (FL, NY, CA, TX). `(Commercial Software)`
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
