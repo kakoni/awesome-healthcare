@@ -106,6 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Laboratory
   * [OpenELIS](https://openelis-global.org) - Laboratory Information System for Global Health.
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
+  * * [Apex Body Composition Lab](https://www.apexbody.site/p/apex-body-composition-lab.html) - An advanced 2026 bio-metric diagnostic tool for analyzing metabolic body composition and cellular health markers.
 
 ### Frameworks
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
