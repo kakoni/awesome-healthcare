@@ -74,6 +74,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
+  * [Braid Health DICOM Viewer](https://braid.health/www/free-dicom-viewer) - Free FDA 510(k)-cleared DICOM viewer with 3D volumetric rendering at 60fps, built-in AI analysis, and integrated radiologist network. No download required.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
