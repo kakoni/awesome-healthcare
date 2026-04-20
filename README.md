@@ -219,6 +219,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [PatientDatasets](https://patientdatasets.com) - Pre-built synthetic patient records in FHIR R4, HL7 v2, ICD-10-CM, CSV, and Parquet. Instant download, commercially licensed, no IRB required.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
