@@ -55,6 +55,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
   * [Ottehr](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
   * [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+  * [Rhema Care Flow](https://github.com/JoaoRG-lab/rhema-care-flow) - Open source clinical platform for rheumatology and medical specialties. Features patient records shared via anonymous code, teleconsultation, 15+ validated clinical score calculators (DAS28, CDAI, SDAI, SLEDAI, HAQ), DMARD/biologic monitoring, 14 specialty portals, AI assistant, and blockchain data integrity (Solana, zero PHI on-chain). Built with React 18 + TypeScript + Supabase. Created by a physician.
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Scribe
