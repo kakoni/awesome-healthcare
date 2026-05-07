@@ -190,6 +190,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenHIM](http://openhim.org/) - Health information mediator.
   * [OpenWearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
   * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
+  * [EDIFlow](https://github.com/ediflow-lib/core) - Open-source HIPAA X12 005010 parser, validator, and builder for TypeScript/Node.js. Supports 835, 837, 270/271, 276/277, 278, 820, 834, 999 transaction sets.
 
 ### Hardware
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer.
