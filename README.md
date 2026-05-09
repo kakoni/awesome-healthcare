@@ -39,6 +39,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
   * [ERPNext](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+  * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - An open-source, self-hosted, personal/family electronic medical record manager, designed to integrate with thousands of insurance companies, hospitals, and clinics.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
