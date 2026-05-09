@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [US Water Quality Data](https://github.com/artakulov/us-water-quality-data) - Water quality, violations, lead/copper levels, and safety scores for 41,344 U.S. ZIP codes from EPA and 20+ federal sources. Available as JSON, CSV, npm package, and REST API.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
