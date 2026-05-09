@@ -148,6 +148,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+  * [Herbal Medicine Interaction API](https://github.com/tapirro/herbal-medicine-api) - Zero-dependency Python API for querying herb-drug interactions across 250 medicinal plants and 53 drug classes.
   * [Hermes](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
   * [Metriport](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
@@ -219,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
+  * [Andean Medicinal Plants Database](https://github.com/tapirro/andean-plants-database) - Open dataset of 250 medicinal plants from the Andes and Amazon with drug interaction data, traditional uses, and scientific names.
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ### Design
