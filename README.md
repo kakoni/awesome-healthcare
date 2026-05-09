@@ -205,6 +205,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Books
   * [Inspired EHRs](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+  * [Healthcare IT](https://www.manning.com/books/healthcare-it) - IA book about the skills and domain knowledge you need to become an effective contributor to—or leader of—a healthcare IT team.
 
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/Library) The unified report library.
