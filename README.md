@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [trove](https://troveproject.com) - Reference tools and Parquet/JSON bundles for two underused U.S. healthcare datasets: FDA novel drug approvals 2021–2024 (CDER + CBER) and nonprofit hospital reporting (CMS HCRIS Worksheet S-10 + IRS 990 Schedule H side-by-side for 1,295 systems). MIT-licensed, plus two Claude Code skills.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
