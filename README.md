@@ -201,6 +201,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping in tissue samples.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
+  * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 vendor-agnostic JSON Schema (Draft 2020-12) API contract for cross-vendor NGS interpretation output, aligned with the HL7 FHIR Genomics IG. Ships TypeScript types, Python pydantic models, worked examples, and a validator.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Books
