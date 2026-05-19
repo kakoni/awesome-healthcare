@@ -80,6 +80,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+  * [dcm-anon](https://github.com/Ces107/dcm-anon) - DICOM PS3.15 Basic Profile anonymizer with verbatim-cited GDPR/HIPAA compliance manifest and independent residual-PHI scan.
+  * [dcm-anon-vault](https://github.com/Ces107/dcm-anon-vault) - Hosted batch DICOM anonymization API with retained tamper-evident audit logs (companion to dcm-anon).
+  * [dicom-sr-scrubber](https://github.com/plusultra-tools/dicom-sr-scrubber) - DICOM Structured Report free-text PHI scrubber for radiology research datasets.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
   * [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
@@ -183,6 +186,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
 ### Integration
+  * [fhir-validator-cli](https://github.com/plusultra-tools/fhir-validator-cli) - Pip-installable FHIR R4/R5 validator with verbatim profile-citation errors.
+  * [hl7-message-diff](https://github.com/plusultra-tools/hl7-message-diff) - HL7 v2 message diff utility for integration-engineer debugging.
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
@@ -233,6 +238,14 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+### Compliance
+  * [ai-act-conformity-pack](https://github.com/plusultra-tools/ai-act-conformity-pack) - EU AI Act high-risk conformity-assessment evidence scaffolder.
+  * [cra-sbom-evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Article 14 SBOM compliance evidence pack with verbatim citations.
+  * [dora-roi-validator](https://github.com/plusultra-tools/dora-roi-validator) - DORA Register of Information preflight: runs ESA data-quality checks before national submission.
+  * [ehds-anon-kit](https://github.com/plusultra-tools/ehds-anon-kit) - EHDS secondary-use de-identification kit for Health Data Access Bodies.
+  * [mdr-tech-file-gen](https://github.com/plusultra-tools/mdr-tech-file-gen) - MDR Annex II technical-file scaffolder for SaMD manufacturers.
+  * [regulatory-changelog-rss](https://github.com/plusultra-tools/regulatory-changelog-rss) - Atom feed of EU compliance deadlines and regulatory changelog updates.
+
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
