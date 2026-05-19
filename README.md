@@ -77,6 +77,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
+  * [dicom-sr-scrubber](https://github.com/plusultra-tools/dicom-sr-scrubber) - DICOM Structured Report PHI scrubber with per-template tag handling and an offline regulatory citation index. Python, MIT.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
@@ -139,6 +140,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ehrapy](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+  * [fhir-validator-cli](https://github.com/plusultra-tools/fhir-validator-cli) - Profile-aware FHIR validator (R4/R5) with deterministic exit codes for CI gating. Python, MIT.
   * [FHIRKit Client](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
   * [FHIRModels](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
   * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
@@ -149,6 +151,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [Hermes](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
+  * [hl7-message-diff](https://github.com/plusultra-tools/hl7-message-diff) - Structural diff between two HL7 v2 messages with segment-and-field level reporting. Python, MIT.
   * [Metriport](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
   * [nhs-numbers](https://github.com/uk-fci/nhs-number) - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
