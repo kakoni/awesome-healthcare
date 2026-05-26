@@ -109,6 +109,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
 ### Frameworks
+  * [SCRIBE](https://github.com/nocomp/scribe) - Open-source hospital crisis management platform. Multi-site, multi-language, on-premise. Designed for GDPR/HDS constraints. 
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
   * [Blaze](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
   * [CareKit](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
