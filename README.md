@@ -167,6 +167,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
+  * [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) - open-source biological-age competition platform with public calculators, athlete profiles, and transparent leaderboards.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
