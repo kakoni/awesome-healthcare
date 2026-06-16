@@ -181,6 +181,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+  * [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents (search, news, scrape, research endpoints) usable for biomedical literature and clinical-trial research; pay-per-call with USDC via x402 or free API key. MCP server: `npx -y superhighway-mcp`.
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
