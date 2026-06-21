@@ -167,6 +167,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
+  * [MedikQuantis](https://medikquantis.me) - Open source (MIT) clinical calculators: 49 scores across 16 specialties in Catalan, Spanish and English, with clinician and patient modes, a free REST API and SMART on FHIR support.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
