@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [OOPI - Open Out-of-Pocket Pricing Index](https://www.rxpricetracker.com/data) - Monthly cross-source US cash drug prices across CVS, GoodRx, Costco, Cost Plus Drugs, Amazon Pharmacy, SingleCare. 109 molecules, with capture URLs. CC-BY-4.0. Also mirrored on [HuggingFace](https://huggingface.co/datasets/pharmax-ai/oopi-pricing-index), [Zenodo (DOI 10.5281/zenodo.20969232)](https://zenodo.org/record/20969232), and [Kaggle](https://www.kaggle.com/datasets/zackkmichael/oopi-us-cash-drug-prices).
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
