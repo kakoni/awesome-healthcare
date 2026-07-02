@@ -90,6 +90,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [Kaapana](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
   * [Kheops](https://kheops.online) - Open source platform for sharing medical images
+  * [MIA Toolkit](https://miatools.tech) - Free, open-source (MIT), cross-platform desktop app that consolidates a patient's DICOM imaging CDs/USBs from multiple sources into one portable DICOMDIR archive; runs entirely on-device.
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
   * [Omero](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
   * [OpenREM](https://openrem.org/) - Radiation Exposure Monitoring for physicists.
