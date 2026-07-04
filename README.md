@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [Verified Supplement Evidence Database](https://huggingface.co/datasets/erinheit451/verified-supplement-evidence) - CC-BY dataset of supplement clinical evidence, dosing, form bioavailability and drug-nutrient interactions, with a PubMed PMID on every claim.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
