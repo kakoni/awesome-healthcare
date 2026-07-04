@@ -146,6 +146,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR protocol buffers](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
   * [Graphir](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+  * [HealthClaw Guardrails](https://github.com/aks129/HealthClawGuardrails) - Guardrail layer between AI agents and FHIR data: PHI redaction, audit trail, step-up auth, and tenant isolation, exposed over MCP with OpenAI/Gemini adapters.
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [Hermes](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
