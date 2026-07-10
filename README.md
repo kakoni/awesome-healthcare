@@ -179,6 +179,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
    * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
 
 ### Research
+  * [Beacon](https://beacontrials.ca) - Bilingual (English/French) patient-facing search across the full ClinicalTrials.gov registry, with plain-language eligibility explanations and no data collection.
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
