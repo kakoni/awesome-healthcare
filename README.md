@@ -174,6 +174,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
+  * [wellnizz](https://github.com/liveforeverbetter/wellnizz) - Agent-first API for genetics (WGS, ClinVar, CPIC, PRS), 168+ biomarkers, and wearables (WHOOP, Oura, Garmin). REST + MCP. Self-hostable via Docker. AGPL-3.0.
 
 ### Telemedicine
    * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
@@ -188,7 +189,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [Open eHealth Integration Platform](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
   * [OpenHIM](http://openhim.org/) - Health information mediator.
-  * [OpenWearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
   * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
 
 ### Hardware
