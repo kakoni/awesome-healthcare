@@ -234,7 +234,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
 ### Compliance
-  * [RatedWithAI](https://ratedwithai.com) - Automated WCAG accessibility testing and monitoring for healthcare websites, helping meet ADA Title II and Section 508 requirements. `(Commercial Software)`
+  * [RatedWithAI](https://ratedwithai.com) - Automated WCAG 2.1 AA accessibility scanning (axe-core) and continuous regression monitoring for patient-facing websites and portals, with shareable audit reports. `(Commercial Software)`
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
