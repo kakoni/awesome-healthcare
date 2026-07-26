@@ -234,6 +234,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
+### Compliance
+  * [RatedWithAI](https://ratedwithai.com) - Automated WCAG 2.1 AA accessibility scanning (axe-core) and continuous regression monitoring for patient-facing websites and portals, with shareable audit reports. `(Commercial Software)`
+
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
