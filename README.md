@@ -58,7 +58,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Scribe
-  * [Cortexa](https://cortexanote.com/en/scribe/) - commercial AI medical scribe for capturing clinical encounters and generating reviewable structured notes; the free plan includes unlimited transcription and basic templates. (Commercial Software)
+  * [Cortexa](https://cortexanote.com/en/scribe/) - commercial AI medical scribe that can pair with an optional clip-on recorder to capture clinical encounters and generate reviewable structured notes; the free plan includes unlimited transcription and basic templates. (Commercial Software)
   * [OpenScribe](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
 
 ### Specifications
