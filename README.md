@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [open-trials-data](https://github.com/ConorsCode/open-trials-data) - free, daily-updated dataset of currently-recruiting interventional clinical trials, pulled from ClinicalTrials.gov's public API.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
