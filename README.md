@@ -219,6 +219,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
+  * [GLP-1 Telehealth Rules by US State](https://www.pallashealth.co/glp-1/telehealth-rules) - Weekly-verified open dataset (CC BY 4.0, CSV/JSON downloads, RSS changelog, [DOI](https://doi.org/10.5281/zenodo.21892535)) of US state telehealth video-visit requirements, Medicaid GLP-1 coverage, and nurse practitioner prescriptive authority with statute citations.
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ### Design
