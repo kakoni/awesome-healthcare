@@ -101,6 +101,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
+  * [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
   * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
   * [OpenMolar](https://openmolar.com/) - Dental Practice Management Software. 
 
