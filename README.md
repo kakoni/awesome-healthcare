@@ -164,6 +164,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [Scanpy](https://scanpy.readthedocs.io/) - Single-cell RNA-seq analysis library in Python.
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+  * [who-growth-standards](https://github.com/SunnySeedApp/who-growth-standards) - TypeScript library for the WHO Child Growth Standards. Z-scores and percentiles computed locally from the official LMS tables, no network calls.
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
