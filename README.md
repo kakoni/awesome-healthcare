@@ -220,6 +220,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [Urgences Québec](https://sante.handled.tools/en/donnees) - JSON API for emergency-room occupancy at 120 Quebec emergency departments, updated hourly, no key, with an archive back to 10 August 2026.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
