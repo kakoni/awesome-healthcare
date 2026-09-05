@@ -217,6 +217,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+  * [mock.health](https://mock.health) - FHIR R4 sandbox with thousands of clinically realistic synthetic patients, SMART on FHIR auth, and US Core 6.1 compliance.
+  
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
