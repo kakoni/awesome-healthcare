@@ -219,7 +219,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [Healthcare AI FDA Clearances](https://github.com/neelchauhan332/healthcare-ai-fda-clearances) - All FDA 510(k) clearances under AI-associated product codes, weekly refreshed, CC BY 4.0.
+    * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
