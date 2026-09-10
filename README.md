@@ -237,6 +237,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
+### Compliance
+  * [HIPAA in Canada: The Complete Guide](https://traztech.ca/blog/hipaa-in-canada) - Guide to HIPAA compliance for Canadian healthtech companies.
+  * [Awesome Compliance Automation](https://github.com/TrazTech-Inc/awesome-compliance-automation) - Curated list of compliance automation tools including HIPAA-specific platforms.
+
 ### Logistics
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenBoxes](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
