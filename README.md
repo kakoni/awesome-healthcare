@@ -41,6 +41,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [GitEHR](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Health Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
+  * [HasteHealth](https://haste.health) - Scalable clinical data repository.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
