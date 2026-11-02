@@ -175,6 +175,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [RCPCH Digital Growth Charts](https://growth.rcpch.ac.uk) - Open source Digital Growth Charts platform with API, CLI, Python package, React chart components.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
+  * [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.
 
 ### PHR
   * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
