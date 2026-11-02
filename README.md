@@ -79,7 +79,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-  * [Clara Train SDK](https://docs.nvidia.com/clara/) - NVIDIA's platform for medical imaging AI, integrating MONAI for model training and deployment, with support for federated learning.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
@@ -93,9 +92,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
-  * [MedPy](https://github.com/loli/medpy) - Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.
   * [Kaapana](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
   * [Kheops](https://kheops.online) - Open source platform for sharing medical images
+  * [MedPy](https://github.com/loli/medpy) - Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
   * [Omero](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
   * [OpenREM](https://openrem.org/) - Radiation Exposure Monitoring for physicists.
@@ -106,8 +105,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Slim](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
   * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
-  * [Pydicom](https://github.com/pydicom/pydicom) - Pure Python package for working with DICOM files, enabling reading, writing, and manipulation of medical imaging data.
-
 
 ### Dental
   * [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
@@ -167,6 +164,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
   * [php-fhir](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+  * [Pydicom](https://github.com/pydicom/pydicom) - Pure Python package for working with DICOM files, enabling reading, writing, and manipulation of medical imaging data.
   * [pynetdicom](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
@@ -238,7 +236,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
-  * [MIMIC-III](https://github.com/MIT-LCP/mimic-iii) - Open source database of de-identified intensive care unit patient data, supporting research in clinical informatics and machine learning.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
@@ -251,7 +248,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
-  * [NiftyNet](https://github.com/NifTK/NiftyNet) - TensorFlow-based open source platform for medical image analysis and deep learning, supporting tasks like segmentation and classification of MRI and CT images.
   * [PathML](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
