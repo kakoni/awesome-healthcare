@@ -31,7 +31,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Logistics](#logistics)
 
 ### EHR
-  * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
+  * [Akello](https://github.com/akello-io/akello) - Integrated Mental Health Infrastructure
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
@@ -45,7 +45,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
-  * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
   * [Medplum](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
   * [Open Hospital](https://sourceforge.net/projects/openhospital/) - Electronic Medical Record software for underprivileged rural hospitals.
@@ -86,7 +85,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
   * [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
-  * [Horos](https://horosproject.org) - Medical image viewer.
+  * [Horos](https://github.com/horosproject/horos) - Medical image viewer.
   * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
@@ -130,7 +129,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-  * [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
+  * [Opal](https://github.com/openhealthcare/opal) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
   * [Sushi](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
@@ -157,7 +156,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [Hermes](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
   * [Metriport](https://github.com/metriport/metriport) - Open-source universal API for healthcare data.
-  * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
+  * [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
   * [nhs-number](https://github.com/wardle/nhs-number) - A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers
   * [nhs-number](https://github.com/uk-fci/nhs-number) - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
@@ -183,7 +182,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
 ### PHR
-  * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
   * [OpenHealth](https://github.com/OpenHealthForAll/open-health) - Privacy-first AI health assistant that interprets personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama.
@@ -223,7 +221,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/Library) The unified report library.
-  * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
   * [Cedar](https://github.com/mitre/cedar) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [EDS_NLP](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
@@ -245,7 +242,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
   
 ### Machine learning
-  * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [PathML](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
