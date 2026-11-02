@@ -54,7 +54,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEMR](https://www.open-emr.org) - Electronic Health Records and Medical Practice Management application.
   * [OpenEyes](https://openeyes.apperta.org) - Electronic Medical Record application for ophthalmology.
   * [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
-  * [OpenMRS FHIR Analytics](https://github.com/google/fhir-data-pipes) - Pipeline tools for transforming OpenMRS data to FHIR-based      analytics using Apache Beam.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
   * [Ottehr](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
   * [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
@@ -177,17 +176,17 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Applications
+  * [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [RCPCH Digital Growth Charts](https://growth.rcpch.ac.uk) - Open source Digital Growth Charts platform with API, CLI, Python package, React chart components.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
-  * [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.
 
 ### PHR
   * [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
-  *   * [OpenHealth](https://github.com/OpenHealthForAll/open-health) - Privacy-first AI health assistant that interprets personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama.
+  * [OpenHealth](https://github.com/OpenHealthForAll/open-health) - Privacy-first AI health assistant that interprets personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama.
 
 ### Telemedicine
    * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
@@ -230,6 +229,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EDS_NLP](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
   * [eds-scikit](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data. 
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
+  * [OpenMRS FHIR Analytics](https://github.com/google/fhir-data-pipes) - Pipeline tools for transforming OpenMRS data to FHIR-based analytics using Apache Beam.
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
@@ -251,6 +251,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [PathML](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
+### Compliance
+  * [HealthStack](https://github.com/the-momentum/healthstack) - Terraform modules for secure and compliant healthcare infrastructure on AWS.
+
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
@@ -258,6 +261,3 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenBoxes](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
-
-### Compliance
-  * [HealthStack](https://github.com/the-momentum/healthstack) – Terraform modules for secure and compliant healthcare infrastructure on AWS.
