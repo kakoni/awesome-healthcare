@@ -40,8 +40,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
   * [ERPNext](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
-  * [FerroEHR](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
-  * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
+  * [FerroEHR](https://github.com/FerroHEALTH/FerroEHR) - openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.  * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
   * [GitEHR](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Health Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
@@ -117,8 +116,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Weasis](https://github.com/nroduit/Weasis) - Standalone and web-based DICOM viewer.
 
 ### Dental
-  * [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations. Source-available under BSL 1.1, converting to Apache-2.0. `(Commercial Software)`
-  * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
+  * [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental practice management with an AI agent that runs real operations.  * [Open Dental](https://www.opendental.com) - Dental Practice Management Software.
   * [OpenMolar](https://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
@@ -290,6 +288,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
   * [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning framework for biomedical image segmentation.
+  * [Odyssey](https://github.com/VectorInstitute/odyssey) - Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.
   * [OpenMed](https://github.com/maziyarpanahi/openmed) - Local clinical named-entity recognition and PHI de-identification models.
   * [PathML](https://github.com/Dana-Farber-AIOS/PathML) - Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.
   * [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
