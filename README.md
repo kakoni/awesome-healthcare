@@ -60,6 +60,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Scribe
   * [OpenScribe](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
+  * [Phlox](https://github.com/bloodworks-io/phlox) - Open source (MIT), self-hosted AI medical scribe with realtime note drafting, RAG, and MCP-extensible agents; runs as a desktop app or Docker image.
 
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
