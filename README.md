@@ -45,9 +45,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [GitEHR](https://github.com/gitehr/gitehr) - Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Health Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
-  * [HasteHealth](https://haste.health) - Scalable clinical data repository.
+  * [HasteHealth](https://github.com/HasteHealth/HasteHealth) - Scalable FHIR server and clinical data repository.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
+  * [ICTHospital](https://github.com/ictinnovations/ICTHospital) - Hospital management software with built-in unified communications, built on Laravel.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [Marley](https://github.com/earthians/marley) - Health information system built on the Frappe framework.
   * [Medplum](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
@@ -139,6 +140,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
   * [HAPI FHIR JPA Server Starter](https://github.com/hapifhir/hapi-fhir-jpaserver-starter) - Ready-to-deploy FHIR server built on HAPI FHIR.
+  * [Helios FHIR Server](https://github.com/HeliosSoftware/hfs) - FHIR server written in Rust, optimized for clinical analytics workloads.
   * [Inferno](https://inferno-framework.github.io) - providing testing tools for the FHIR
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
