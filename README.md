@@ -86,7 +86,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - JavaScript libraries for building web-based medical imaging platforms.
   * [dcm2niix](https://github.com/rordenlab/dcm2niix) - DICOM to NIfTI converter.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
-  * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
+  * [Dicoogle](https://github.com/dicoogle/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
