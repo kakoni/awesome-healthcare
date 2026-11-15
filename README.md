@@ -204,6 +204,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [CommCare HQ](https://github.com/dimagi/commcare-hq) - Server for CommCare, a mobile data collection platform for frontline health workers.
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [MedTimer](https://github.com/Futsch1/medTimer) - Medication reminder and tracking app for Android.
+  * [MKB-10/ICD-10 Browser](https://www.mkb110.ru) - Free Russian/English ICD-10 reference with code search and alphabetical indexes.
   * [OpenSRP FHIR Core](https://github.com/opensrp/fhircore) - Offline-capable Android app for community health workers, built on the Android FHIR SDK.
   * [RCPCH Digital Growth Charts](https://growth.rcpch.ac.uk) - Open source Digital Growth Charts platform with API, CLI, Python package, React chart components.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
