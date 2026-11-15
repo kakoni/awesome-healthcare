@@ -261,6 +261,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Books
   * [Inspired EHRs](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+  * [Physician AI Handbook](https://physicianaihandbook.com/) - Free, open textbook (CC BY 4.0) on the peer-reviewed evidence for AI in medicine across 19 specialties.
 
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/Library) The unified report library.
