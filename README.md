@@ -153,6 +153,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
+  * [Aidlab SDK](https://github.com/Aidlab) - SDK for Aidlab chest-worn wearables: raw ECG, respiration, RR intervals, motion and offline recording on Python, Android, Apple platforms, Flutter and Unity (Commercial Software).
   * [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
   * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
