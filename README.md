@@ -274,6 +274,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMRS FHIR Analytics](https://github.com/google/fhir-data-pipes) - Pipeline tools for transforming OpenMRS data to FHIR-based analytics using Apache Beam.
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Pathling](https://github.com/aehrc/pathling) - FHIR and clinical terminology analytics on Apache Spark.
+  * [Patientary](https://www.patientary.com/) - Look up US healthcare providers by NPI and search ICD-10-CM codes, with free web lookups and an API (Commercial Software).
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Snowstorm](https://github.com/IHTSDO/snowstorm) - SNOMED International's SNOMED CT terminology server.
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
