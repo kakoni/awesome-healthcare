@@ -281,6 +281,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Datasets
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+  * [KeepOkey Fall Alert Index](https://doi.org/10.5281/zenodo.24417882) - published claims about US fall-alert devices and services, with source quotations, capture dates and pricing and response terms.
 
 ### Design
   * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
