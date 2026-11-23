@@ -194,7 +194,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
-  * [sct](https://github.com/pacharanero/sct) - File-based SNOMED-CT toolset built in Rust.
+  * [sct](https://github.com/pacharanero/sct) - open-source local-first SNOMED CT toolchain for RF2 conversion, terminology queries and MCP integration (AGPL-3.0-or-later; SNOMED CT data separately licensed).
   * [Scanpy](https://scanpy.readthedocs.io/) - Single-cell RNA-seq analysis library in Python.
   * [SMART on FHIR JavaScript client](https://github.com/smart-on-fhir/client-js) - JavaScript client for SMART on FHIR apps.
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
