@@ -303,6 +303,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Compliance
   * [HealthStack](https://github.com/the-momentum/healthstack) - Terraform modules for secure and compliant healthcare infrastructure on AWS.
+  * [SAFETY.md](https://github.com/pacharanero/SAFETY.md) - openly licensed draft convention and templates for keeping clinical-safety documentation alongside source code (CC BY-SA 4.0 for original material).
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
