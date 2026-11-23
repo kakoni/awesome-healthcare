@@ -182,7 +182,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
   * [nHapi](https://github.com/nHapiNET/nHapi) - .NET port of the HAPI HL7 v2 library.
   * [nhs-number](https://github.com/wardle/nhs-number) - A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers
-  * [nhs-number](https://github.com/uk-fci/nhs-number) - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
+  * [nhs-number](https://github.com/ohtf/nhs-number-py) - open-source Python package for NHS Number validation, normalisation and generation (MIT).
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
   * [php-fhir](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
