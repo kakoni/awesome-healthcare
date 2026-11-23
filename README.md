@@ -29,6 +29,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
+- [Organisations](#organisations)
 
 ### EHR
   * [Akello](https://github.com/akello-io/akello) - Integrated Mental Health Infrastructure
@@ -311,3 +312,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenBoxes](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
+
+### Organisations
+  * [Open Health Technology Foundation](https://openhealthtechnology.org) - a UK-based community interest company stewarding open-source health technology, from libraries to clinical services.
