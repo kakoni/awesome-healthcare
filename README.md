@@ -270,6 +270,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EDS_NLP](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
   * [eds-scikit](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data. 
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
+  * [MedCE Hub API](https://github.com/MedCE-hub/cme-conferences-api) - Open JSON:API (OpenAPI 3.1) and MCP server with US CME/CE conferences and state CE license renewal requirements for 14 health professions, each record linked to the official source. Data CC BY 4.0, code MIT.
   * [medspaCy](https://github.com/medspacy/medspacy) - Library for clinical NLP with spaCy.
   * [OpenMRS FHIR Analytics](https://github.com/google/fhir-data-pipes) - Pipeline tools for transforming OpenMRS data to FHIR-based analytics using Apache Beam.
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
