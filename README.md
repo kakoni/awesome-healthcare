@@ -72,6 +72,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
   * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
+  * [GA4GH Phenopackets](https://github.com/ga4gh/phenopacket-schema) - Schema for sharing the phenotypic description of a patient or sample in rare disease and cancer.
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases.
   * [OpenEHR](https://www.openehr.org) - Open specification upon which software can be built.
