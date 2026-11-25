@@ -198,6 +198,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Scanpy](https://scanpy.readthedocs.io/) - Single-cell RNA-seq analysis library in Python.
   * [SMART on FHIR JavaScript client](https://github.com/smart-on-fhir/client-js) - JavaScript client for SMART on FHIR apps.
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+  * [x12sdk](https://github.com/owgreen-dev/x12sdk) - Python library and CLI for HIPAA X12 5010 claim, remittance, enrollment and eligibility files (837P/I/D, 835, 834, 270/271, 276/277), with validation, flat-table export and synthetic test-file generation.
 
 ### Applications
   * [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.
