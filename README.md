@@ -203,6 +203,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.
   * [CommCare HQ](https://github.com/dimagi/commcare-hq) - Server for CommCare, a mobile data collection platform for frontline health workers.
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
+  * [MedTerminal](https://github.com/Lukecele/cardio-thoracic-medterminal) - Browser-based 3D cardio-thoracic medical education platform with dynamic ECG arrhythmia simulation, Littmann acoustic phonocardiograms, and active-recall clinical modules.
   * [MedTimer](https://github.com/Futsch1/medTimer) - Medication reminder and tracking app for Android.
   * [OpenSRP FHIR Core](https://github.com/opensrp/fhircore) - Offline-capable Android app for community health workers, built on the Android FHIR SDK.
   * [RCPCH Digital Growth Charts](https://growth.rcpch.ac.uk) - Open source Digital Growth Charts platform with API, CLI, Python package, React chart components.
